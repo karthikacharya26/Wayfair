@@ -39,6 +39,26 @@ Welcome to the Wayfair clone project, a web application designed to provide a se
 - npm
 
 
+## Preview
+
+1.Home Page
+![App Screenshot](https://i.imgur.com/ijZwjI4.png)
+
+2.Login Page
+![App Screenshot](https://i.imgur.com/Hfu9J7k.png)
+
+3.Signup Page
+![App Screenshot](https://i.imgur.com/S3uoHmv.png)
+
+4.Multi-Product Page
+![App Screenshot](https://i.imgur.com/tWTOx1Q.png)
+
+5.Single Product Page
+![App Screenshot](https://i.imgur.com/fyMDKYp.png)
+
+6.Cart Page
+![App Screenshot](https://i.imgur.com/Scdw7xh.png)
+
 ## Run Locally
 
 Clone the project
