@@ -1,5 +1,5 @@
 
-# Wayfiar Clone Project 
+# Wayfair Clone Project 
 
 Welcome to the Wayfair clone project, a web application designed to provide a seamless shopping experience similar to Wayfair's online platform. Below are the key features and functionalities of the Wayfair clone project.
 
