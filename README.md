@@ -8,7 +8,7 @@ Welcome to the Wayfair clone project, a web application designed to provide a se
 
 ## Experience it yourself
 
- - [Wayfair clone](https://wayfair-clone.netlify.app/)
+ - [Wayfair clone](https://wayfair-clone.vercel.app/)
 
 
 
@@ -19,8 +19,6 @@ Welcome to the Wayfair clone project, a web application designed to provide a se
 - Login & Signup 🌐 Users can create accounts or log in to existing ones, ensuring a personalized experience.
 
 - Cart Page Checkout 🛒 Review and manage selected products before proceeding to checkout.
-
-- Responsive Design 📱 Ensures the website adapts seamlessly to various screen sizes and devices.
 
 - Proper Routing 🛤️ Navigating through different pages is smooth and intuitive.
 
