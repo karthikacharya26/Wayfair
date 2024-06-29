@@ -8,7 +8,7 @@ Welcome to the Wayfair clone project, a web application designed to provide a se
 
 ## Experience it yourself
 
- - [Wayfair clone](https://costcoclone.netlify.app/)
+ - [Wayfair clone](https://wayfair-clone.netlify.app/)
 
 
 
