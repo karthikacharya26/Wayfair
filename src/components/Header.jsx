@@ -22,6 +22,7 @@ import { RxAvatar } from "react-icons/rx";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import { logout } from "../redux/actionTypes";
+import wayfairLogo from "/Users/karthikacharya/Documents/Web development/CAP/Construct/Wayfair/src/assets/wayfair-seeklogo.png"
 
 const Header = () => {
   const state = useSelector((state) => state.authentication);
@@ -107,10 +108,10 @@ const Header = () => {
         paddingLeft={"50px"}
         paddingRight={"70px"}
       >
-        <Box w={"400px"}>
+        <Box w={"400px"} p={4}>
           <Link to={"/"}>
             <Image
-              src="https://upload.wikimedia.org/wikipedia/commons/7/72/Wayfair-logo-2024.png?20240425193018"
+              src={wayfairLogo}
               width={"180px"}
               cursor={"pointer"}
             />
