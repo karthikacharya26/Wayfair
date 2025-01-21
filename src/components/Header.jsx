@@ -22,7 +22,7 @@ import { RxAvatar } from "react-icons/rx";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import { logout } from "../redux/actionTypes";
-import wayfairLogo from "/Users/karthikacharya/Documents/Web development/CAP/Construct/Wayfair/src/assets/wayfair-seeklogo.png"
+import wayfairLogo from "../assets/wayfair-seeklogo.png"
 
 const Header = () => {
   const state = useSelector((state) => state.authentication);
