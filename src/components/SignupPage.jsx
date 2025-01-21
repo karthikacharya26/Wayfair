@@ -14,6 +14,7 @@ import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { Email, Password } from "../redux/actionTypes";
+import wayfairLogo from "../assets/wayfair-seeklogo.png"
 
 const SignupPage = () => {
   const state = useSelector((state) => state.auth);
@@ -62,7 +63,7 @@ const SignupPage = () => {
         mt={"50px"}
       >
         <Image
-          src="https://upload.wikimedia.org/wikipedia/commons/7/72/Wayfair-logo-2024.png?20240425193018"
+          src={wayfairLogo}
           width={"180px"}
           cursor={"pointer"}
         />
